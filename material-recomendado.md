@@ -49,3 +49,21 @@ Complementar
 -> SERNA RUIZ, Antonio; GIL, José Vicente García. Lógica digital y microprogramable. Madrid : Paraninfo, c2000. xiii, 277p, il. (Electricidad-electrónica. Desarrollo de productos electrónicos).
 
 -> WEBER, Raul Fernando. Fundamentos de arquitetura de computadores.4. ed. Porto Alegre : Bookman, 2012. xxiii, 400 p, il.
+
+# Arquitetura de computadores - Parte I
+
+## Sistemas de numeração
+
+O sistema de numeração decimal é um dos sistemas de numeração mais comuns.
+
+Outros sistemas de numeração populares incluem sistemas de numeração binarios.
+
+###  Sistema de numeração decimal 
+
+- O sistema numerico decimal é um sistema numerico base 10 com 10 digitos do 0 a 9
+- Qualquer quantidadde númerica pode ser representada usando esses 10 digitos
+- O sistema de numeração decimal também é um sisytema de valores posicionale. ou seja, o valor dos digitos dependerá da sua posição.
+
+- Exemplo:126, 367 e 694. O numero 6, presente nestes 3 numeros, possui diferentes possiões que definem o valor do mesmo.
+
+
