@@ -120,3 +120,5 @@ Utilizado na representação de cores em diversos contextos, como design gráfic
     - Permite representar números maiores com menos dígitos em comparação com o sistema decimal. 
     - Facilidade de conversão para binário:
     - Facilita a conversão entre hexadecimal e binário, o que é útil para a programação e compreensão da lógica computacional. 
+## Conversão de bases
+<img width="328" height="311" alt="image" src="https://github.com/user-attachments/assets/0be900a8-f938-4920-85c2-5598b6ed311c" />
