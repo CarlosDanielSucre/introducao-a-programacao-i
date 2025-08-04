@@ -90,4 +90,33 @@ O sistema binário é usado por computadores porque é fácil de implementar ele
 
 <img width="347" height="333" alt="image" src="https://github.com/user-attachments/assets/d887821d-bb0b-43d7-95e7-982ae3e97839" />
 
+
+### Sistema octal 
+O sistema octal é um sistema de numeração de base 8, utilizando os dígitos 0 a 7. É frequentemente usado em computação como uma alternativa mais compacta à representação binária. 
+- Características:
+  - Base 8:
+O sistema octal utiliza apenas oito símbolos (0, 1, 2, 3, 4, 5, 6, e 7) para representar quantidades. 
+  - Representação Compacta:
+Em comparação com o sistema binário, o sistema octal permite uma representação mais compacta de números binários grandes, agrupando os bits em grupos de três. 
   
+### Sistema Hexadeximal
+
+- O sistema hexadecimal é um sistema de numeração posicional com base 16. Isso significa que ele utiliza 16 símbolos diferentes para representar os números, em vez dos 10 símbolos do sistema decimal (0-9). Além dos dígitos de 0 a 9, o sistema hexadecimal utiliza as letras A a F para representar os valores de 10 a 15, respectivamente. 
+- Estrutura do sistema hexadecimal: 
+- Base 16: O sistema utiliza 16 símbolos distintos para representar os números. 
+- Símbolos: São eles: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, E e F. 
+- Representação: Cada posição em um número hexadecimal representa uma potência de 16, da mesma forma que cada posição em um número decimal representa uma potência de 10. 
+- Exemplo:
+O número hexadecimal 1A2F em base 16 seria equivalente a: (1, 16³) + (10, 16²) + (2, 16¹) + (15, 16⁰) em base 10.
+- Aplicações do sistema hexadecimal:
+  - Computação:
+É amplamente utilizado em computação para representar endereços de memória, cores na web (onde cada cor é definida por um código hexadecimal), códigos de máquina e outras informações. 
+  - Programação:
+Facilita a conversão para o sistema binário, que é a linguagem fundamental dos computadores. 
+  - Design:
+Utilizado na representação de cores em diversos contextos, como design gráfico e desenvolvimento web. 
+  - Vantagens do sistema hexadecimal:
+    - Menor quantidade de dígitos:
+    - Permite representar números maiores com menos dígitos em comparação com o sistema decimal. 
+    - Facilidade de conversão para binário:
+    - Facilita a conversão entre hexadecimal e binário, o que é útil para a programação e compreensão da lógica computacional. 
