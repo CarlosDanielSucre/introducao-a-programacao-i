@@ -24,10 +24,12 @@ Vídeos
 
 - Básico
 
--> MONTEIRO, Mario A. (Mario Antonio). Introdução a organização de computadores.5. ed. Rio de Janeiro : LTC, 2007. xii, 696 p, il.
+-  **MONTEIRO, Mario A. (Mario Antonio). Introdução a organização de computadores** .5. ed. Rio de Janeiro : LTC, 2007. xii, 696 p, il.
+  [link do livro](https://annas-archive.org/slow_download/10871b9dac4a762777592e9d8b79061a/0/0)
 
--> STALLINGS, William. Arquitetura e organização de computadores.8. ed. São Paulo : Pearson, 2010. xiv, 624 p, il.
-
+- **STALLINGS, William. Arquitetura e organização de computadores** .8. ed. São Paulo : Pearson, 2010. xiv, 624 p, il.
+  [link do livro](https://annas-archive.org/md5/ea252c1d3efa2c77979d83035cfa816d)
+  
 -> WEBER, Raul Fernando. Fundamentos de arquitetura de computadores.4. ed. Porto Alegre : Bookman, 2012. xxiii, 400 p, il.
 
 Complementar
