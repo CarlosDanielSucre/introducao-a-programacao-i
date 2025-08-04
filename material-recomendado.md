@@ -66,4 +66,24 @@ Outros sistemas de numeração populares incluem sistemas de numeração binario
 
 - Exemplo:126, 367 e 694. O numero 6, presente nestes 3 numeros, possui diferentes possiões que definem o valor do mesmo.
 
+### Sistema Binário
 
+O sistema binário é um sistema de numeração de base 2, utilizando apenas dois dígitos: 0 e 1. É fundamental na computação, pois os computadores utilizam este sistema para representar e processar dados. 
+O que é o sistema binário:
+É um sistema de numeração posicional, onde cada dígito (bit) representa um valor baseado em sua posição. 
+A base 2 significa que cada posição representa uma potência de 2 (2⁰, 2¹, 2², etc.). 
+O sistema binário é usado por computadores porque é fácil de implementar eletronicamente, usando dois estados distintos (ligado/desligado, presente/ausente). 
+
+#### Como funciona:
+- Um número binário é uma sequência de 0s e 1s. 
+- Cada posição no número binário representa uma potência de 2, começando da direita para a esquerda. 
+- Para converter um número decimal em binário, divide-se o número decimal por 2 repetidamente, anotando os restos. A sequência dos restos, lida de baixo para cima, é o número binário equivalente. 
+- Para converter um número binário em decimal, multiplica-se cada dígito binário por sua respectiva potência de 2 e soma os resultados. 
+#### Exemplo:
+- O número decimal 10 em binário é 1010.
+- O número decimal 25 em binário é 11001.
+- O número binário 1100 em decimal é 12. 
+
+- 1001 = 1x2³ + 0x2² + 0x2¹ + 1x2^0
+
+  
