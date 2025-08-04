@@ -17,7 +17,7 @@ Vídeos
 - [INTRODUCAO DA M++](https://youtube.com/watch?v=ZX8WASCJpAY&si=EnSIkaIECMiOmarE)
 - [MAQUINA M+++ LITE](https://youtube.com/watch?v=HqbfzF_YWV8&si=EnSIkaIECMiOmarE)
 - [Arquivos](https://furbmy.sharepoint.com/:f:/g/personal/maw_furb_br/Evq1llxNQypHtj1W0RWg4lwBVxgqKqTjt1mh5E0Cf4EdCw?e=f4fjXI)
-- [Softwares](https://furb- my.sharepoint.com/:f:/g/personal/maw_furb_br/EvLv0ulbnWxMlu4Eq3POiJcBzk1P8M5adrSDeRP7GtOPw?e=r1zcsJ)
+- [Softwares](https://furb-my.sharepoint.com/:f:/g/personal/maw_furb_br/EvLv0ulbnWxMlu4Eq3POiJcBzk1P8M5adrSDeRP7GtOPw?e=r1zcsJ)
 
 ## Documentos recomendados
 
