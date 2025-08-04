@@ -86,4 +86,8 @@ O sistema binário é usado por computadores porque é fácil de implementar ele
 
 - 1001 = 1x2³ + 0x2² + 0x2¹ + 1x2^0
 
+### Unidades binárias
+
+<img width="347" height="333" alt="image" src="https://github.com/user-attachments/assets/d887821d-bb0b-43d7-95e7-982ae3e97839" />
+
   
