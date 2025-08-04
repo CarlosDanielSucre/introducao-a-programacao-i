@@ -1,47 +1,28 @@
-Observações
+# Recomendação de material para a disciplina
 
 Apresentação de vídeos, simulações e eventos fazem parte do conteúdo da disciplina.
 
 Links importantes:
 Vídeos
-SISTEMAS DE NUMERACAO
-https://youtube.com/watch?v=oc2x1cMQotI&si=EnSIkaIECMiOmarE
-ALGEBRA DE BOOLE
-https://youtube.com/watch?v=yggVjOwsluw&si=EnSIkaIECMiOmarE
-ALGEBRA DE BOOLE (OUTRA TURMA)
-https://youtube.com/watch?v=EY04l3ii1Xo&si=EnSIkaIECMiOmarE
-ALGEBRA DE BOOLE (OUTRA TURMA)
-https://www.youtube.com/watch?v=z5P9MhMY3Pk&t=9142s
-APLICACOES DE BOOLE
-https://youtube.com/watch?v=jpad5lIH-lo&si=EnSIkaIECMiOmarE
-APLICACOES DE BOOLE (OUTRA TURMA)
-https://www.youtube.com/watch?v=z5P9MhMY3Pk&t=9142s
-TESTANDO EXPRESSOES BOOLEANAS
-https://www.youtube.com/watch?v=z5P9MhMY3Pk&t=9142s
-CIRCUITOS COMBINACIONAIS + SEQUENCIAIS
-https://www.youtube.com/watch?v=aLqED5UCLjI&t=7211s
-CIRCUITOS SEQUENCIAIS
-https://youtube.com/watch?v=ZX8WASCJpAY&si=EnSIkaIECMiOmarE
-MEMORIA
-https://www.youtube.com/watch?v=EdBUH_D6QWw
-INTRODUCAO DA M++
-https://youtube.com/watch?v=ZX8WASCJpAY&si=EnSIkaIECMiOmarE
-MAQUINA M+++ LITE
-https://youtube.com/watch?v=HqbfzF_YWV8&si=EnSIkaIECMiOmarE
-Arquivos
-https://furbmy.sharepoint.com/:f:/g/personal/maw_furb_br/Evq1llxNQypHtj1W0RWg4lwBVxgqKqTjt1mh5E0Cf4EdCw?
-e=f4fjXI
+- [SISTEMAS DE NUMERACAO](https://youtube.com/watch?v=oc2x1cMQotI&si=EnSIkaIECMiOmarE)
+- [ALGEBRA DE BOOLE](https://youtube.com/watch?v=yggVjOwsluw&si=EnSIkaIECMiOmarE)
+- [ALGEBRA DE BOOLE (OUTRA TURMA)](https://youtube.com/watch?v=EY04l3ii1Xo&si=EnSIkaIECMiOmarE)
+- [ALGEBRA DE BOOLE (OUTRA TURMA)](https://www.youtube.com/watch?v=z5P9MhMY3Pk&t=9142s)
+- [APLICACOES DE BOOLE](https://youtube.com/watch?v=jpad5lIH-lo&si=EnSIkaIECMiOmarE)
+- [APLICACOES DE BOOLE (OUTRA TURMA)](https://www.youtube.com/watch?v=z5P9MhMY3Pk&t=9142s)
+- [TESTANDO EXPRESSOES BOOLEANAS](https://www.youtube.com/watch?v=z5P9MhMY3Pk&t=9142s)
+- [CIRCUITOS COMBINACIONAIS + SEQUENCIAIS](https://www.youtube.com/watch?v=aLqED5UCLjI&t=7211s)
+- [CIRCUITOS SEQUENCIAIS](https://youtube.com/watch?v=ZX8WASCJpAY&si=EnSIkaIECMiOmarE)
+- [MEMORIA](https://www.youtube.com/watch?v=EdBUH_D6QWw)
+- [INTRODUCAO DA M++](https://youtube.com/watch?v=ZX8WASCJpAY&si=EnSIkaIECMiOmarE)
+- [MAQUINA M+++ LITE](https://youtube.com/watch?v=HqbfzF_YWV8&si=EnSIkaIECMiOmarE)
+- [Arquivos](https://furbmy.sharepoint.com/:f:/g/personal/maw_furb_br/Evq1llxNQypHtj1W0RWg4lwBVxgqKqTjt1mh5E0Cf4EdCw?e=f4fjXI)
+- [Softwares](https://furb- my.sharepoint.com/:f:/g/personal/maw_furb_br/EvLv0ulbnWxMlu4Eq3POiJcBzk1P8M5adrSDeRP7GtOPw?e=r1zcsJ)
 
-Softwares
-https://furb- my.sharepoint.com/:f:/g/personal/maw_furb_br/EvLv0ulbnWxMlu4Eq3POiJcBzk1P8M5adrSDeRP7GtOPw?e=r1zcsJ
-Ressalta-se a importância dos estudantes acompanharem as comunicações via email institucional
-(@furb.br) e as postagem feitas no Ambiente Virtual de Aprendizagem (AVA3).
+## Documentos recomendados
 
 
-Documentos recomendados
-
-
-Básico
+- Básico
 
 -> MONTEIRO, Mario A. (Mario Antonio). Introdução a organização de computadores.5. ed. Rio de Janeiro : LTC, 2007. xii, 696 p, il.
 
