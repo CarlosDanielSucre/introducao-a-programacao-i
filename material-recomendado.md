@@ -138,3 +138,11 @@ Utilizado na representação de cores em diversos contextos, como design gráfic
 ### Binario <-> Hexadecimal
 <img width="531" height="418" alt="image" src="https://github.com/user-attachments/assets/3b6c8f53-a318-44f4-bf46-c7dd89d89d02" />
 
+# Tabela ASCII
+
+Codigo criado na decada de 60 por Robert W. Bemer para unificar a representaão de caracteres alfanumericos em computadores
+
+- ASCII significa "American Standard Code for nformation Interchange" ou "Codifo padrão Americano para o Intercambio de informações"
+
+
+<img width="901" height="604" alt="image" src="https://github.com/user-attachments/assets/bec4d402-2f2b-4323-90fe-977b64add395" />
