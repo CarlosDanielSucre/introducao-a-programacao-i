@@ -126,3 +126,5 @@ Utilizado na representação de cores em diversos contextos, como design gráfic
 ### Binario -> Decimal
 <img width="344" height="189" alt="image" src="https://github.com/user-attachments/assets/b8172ca1-7942-434b-991a-6f2a202c39db" />
 
+### Decimal -> Binario
+<img width="479" height="260" alt="image" src="https://github.com/user-attachments/assets/864cc70f-10ca-4b00-b80a-6e03cf8c3695" />
