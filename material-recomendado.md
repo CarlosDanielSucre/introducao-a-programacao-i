@@ -132,3 +132,9 @@ Utilizado na representação de cores em diversos contextos, como design gráfic
 ### Decimal -> Hexadecimal
 <img width="406" height="181" alt="image" src="https://github.com/user-attachments/assets/b26b678f-9a53-4fe9-80c8-b42567017333" />
 
+### Hexadecimal -> Decimal
+<img width="518" height="302" alt="image" src="https://github.com/user-attachments/assets/caef7111-aeb5-4e25-8b6d-59163f36f693" />
+
+### Binario <-> Hexadecimal
+<img width="531" height="418" alt="image" src="https://github.com/user-attachments/assets/3b6c8f53-a318-44f4-bf46-c7dd89d89d02" />
+
